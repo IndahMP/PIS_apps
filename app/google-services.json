@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "184915413165",
+    "firebase_url": "https://loginsigninpis.firebaseio.com",
+    "project_id": "loginsigninpis",
+    "storage_bucket": "loginsigninpis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184915413165:android:07c60c0f440f2b80cade24",
+        "android_client_info": {
+          "package_name": "com.example.loginsigninpis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184915413165-v8m41b7fmcglru3u0lbjvm10sofgcdv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginsigninpis",
+            "certificate_hash": "e3fd45f9014a924db7fd8837bc9ebfa48b6c80b4"
+          }
+        },
+        {
+          "client_id": "184915413165-iugau44a8m1d0m0j4h7gll4ha4hlebt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrD0B3_UesW6hgplbFLyIoPQ_--vl9vmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184915413165-iugau44a8m1d0m0j4h7gll4ha4hlebt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
